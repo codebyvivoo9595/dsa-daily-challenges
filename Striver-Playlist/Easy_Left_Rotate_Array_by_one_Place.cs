@@ -13,5 +13,6 @@ public class Solution
        }
 
        nums[n-1] = FirstPlace;
+       return nums;
     }  
 }
