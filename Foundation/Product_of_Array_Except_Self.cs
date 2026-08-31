@@ -1,5 +1,5 @@
 using System;
-
+//Product of array Expect It self
 class ProductExceptSelf
 {
     static void Main()
