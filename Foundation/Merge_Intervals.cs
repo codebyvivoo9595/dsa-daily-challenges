@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 
+//This is related the Marge Inter val Problem
 class MergeIntervals
 {
     static void Main()
